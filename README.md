@@ -11,8 +11,8 @@
 
 ## Tech Stack
 
-- **Frontend**: React (Vite), Chart.js, Tailwind CSS
-- **Backend**: Streamlit (for data processing and display)
+- **Frontend**: React (Vite), Tailwind CSS
+- **Backend**: Django (for data processing and display)
 - **Data**: Stack Overflow Developer Survey 2023 (CSV)
 
 ## Setup
