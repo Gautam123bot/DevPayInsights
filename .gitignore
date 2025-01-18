@@ -1,0 +1,5 @@
+node_modules/
+.env
+venv/
+streamlit_backend/survey_results_public.csv
+frontend/public/survey_results_public.csv
